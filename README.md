@@ -1,1 +1,1 @@
-# Exact-Trainingg
+# Exact-Training
